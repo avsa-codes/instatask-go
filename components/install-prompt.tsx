@@ -36,7 +36,7 @@ export default function InstallPrompt() {
 
         <div className="text-sm">
           <p className="font-semibold text-gray-900">
-            Install SkillConnect
+            Install InstaTask
           </p>
           <p className="text-gray-500 text-xs">
             Faster access to tasks
